@@ -82,6 +82,7 @@ Created a structured analytical report summarizing findings
 
 Designed a presentation using Gamma to communicate insights effectively
 
+
 **5. Dashboard**
 
 The Power BI dashboard includes visualizations such as:
@@ -95,6 +96,10 @@ Category-wise and regional performance breakdown
 Comparative analysis to highlight problem areas
 
 The dashboard helps stakeholders quickly understand the overall performance and key insights from the dataset.
+
+The interactive Power BI dashboard file can be downloaded from the repository:
+
+[Download Power BI Dashboard](Customer Behaviour Project.pbix)
 
 **Presentation**
 
@@ -111,6 +116,10 @@ Key findings from the dataset
 Business insights derived from the analysis
 
 Final recommendations based on the results
+
+You can download and view the presentation here:
+
+[Download Presentation](Customer-Shopping-Behavior-Analysis.pdf)
 
 **6. Results & Key Insights**
 
