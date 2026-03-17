@@ -96,6 +96,22 @@ Comparative analysis to highlight problem areas
 
 The dashboard helps stakeholders quickly understand the overall performance and key insights from the dataset.
 
+**Presentation**
+
+A presentation summarizing the analysis process, key insights, and business recommendations is included in this repository.
+
+The presentation was created using Gamma and exported as a PDF for easy viewing.
+
+It highlights:
+
+The analytical approach used in the project
+
+Key findings from the dataset
+
+Business insights derived from the analysis
+
+Final recommendations based on the results
+
 **6. Results & Key Insights**
 
 Some of the key insights derived from the analysis include:
@@ -128,8 +144,8 @@ Project Folder
 ├── report
 │   └── project_report.pdf
 │
-└── presentation
-    └── presentation_gamma.pptx
+├── presentation
+│   └── project_presentation.pdf
 
 **8. How to Run the Project**
 
