@@ -88,8 +88,6 @@ The Power BI dashboard includes visualizations such as:
 
 Key performance indicators (KPIs)
 
-Trend analysis over time
-
 Category-wise and regional performance breakdown
 
 Comparative analysis to highlight problem areas
