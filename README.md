@@ -26,8 +26,6 @@ The following tools and technologies were used throughout the project:
 
 Python – Data loading, data cleaning, and exploratory data analysis
 
-Pandas, NumPy, Matplotlib, Seaborn – Data manipulation and visualization
-
 MySQL Server – Querying the dataset and performing analytical SQL operations
 
 Power BI – Interactive dashboard and visual analytics
