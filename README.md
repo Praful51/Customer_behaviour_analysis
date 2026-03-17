@@ -134,7 +134,6 @@ Areas that require improvement or optimization
 
 Data-driven recommendations for better decision-making
 
-(Add 2–3 specific insights from your project here)
 
 **7. Project Structure**
 Project Folder
